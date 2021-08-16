@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keviniest
 - 👀 I’m interested in ... Cheese eating
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java, but mostly minecraft and subnautica strategies
 - 💞️ I’m looking to collaborate on ... Minecraft stuff
 - 📫 How to reach me ... Keviniest#9805
 
