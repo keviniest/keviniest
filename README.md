@@ -1,10 +1,10 @@
-Roses are red,
-Violets are blue,
-the rat is the sa fnsliufn,
+Roses are red, <br />
+Violets are blue, <br />
+the rat is the sa fnsliufn, <br />
 I am cheese.
 
-🔵Discord : Keviniest#9805
-🟠Reddit : u/keviniest
+🔵Discord : Keviniest#9805 <br />
+🟠Reddit : u/keviniest <br />
 🔴IG : keviniest
 
 <!---
