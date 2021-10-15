@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @keviniest
-- 👀 I’m interested in Cheese eating
-- 🌱 I’m currently learning Java, but mostly minecraft and subnautica strategies
-- 💞️ I’m looking to collaborate on cheese making
-- 📫 How to reach me ... Discord : `Keviniest#9805`
+Roses are red,
+Violets are blue,
+the rat is the sa fnsliufn,
+I am cheese.
+
+🔵Discord : Keviniest#9805
+🟠Reddit : u/keviniest
+🔴IG : keviniest
 
 <!---
 keviniest/keviniest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
