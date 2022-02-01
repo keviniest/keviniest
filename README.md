@@ -3,7 +3,7 @@ Violets are blue, <br />
 the rat is the sa fnsliufn, <br />
 I am cheese.
 
-🔵Discord : Keviniest#9805 <br />
+🔵Discord : Keviniest#9805 (682501040561848335) <br />
 🟠Reddit : u/keviniest <br />
 🔴IG : keviniest
 
